@@ -8,3 +8,10 @@ settings.ini
 CMakeUserPresets.json
 .cache/
 .idea/
+
+bin/
+bin-intermediate/
+
+*.user
+*.vcxproj
+*.filters
